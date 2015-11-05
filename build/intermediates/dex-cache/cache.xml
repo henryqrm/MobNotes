@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\biblioteca-diogomarcos\Documents\AndroidStudioProjects\MobNotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\biblioteca-diogomarcos\Documents\AndroidStudioProjects\MobNotes\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-d6b4548262c8736209f1033848d6d5e02f7c0997.jar" />
+    </item>
+    <item
+        jar="D:\Programas\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\biblioteca-diogomarcos\Documents\AndroidStudioProjects\MobNotes\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-b5e3c235cc32454c21bd8222a548fd72f373e06f.jar" />
+    </item>
+    <item
+        jar="D:\biblioteca-diogomarcos\Documents\AndroidStudioProjects\MobNotes\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="D:\biblioteca-diogomarcos\Documents\AndroidStudioProjects\MobNotes\app\build\intermediates\pre-dexed\debug\classes-72b97fb8792c180f82d25c7931a5f7bcd44b2cc8.jar" />
+    </item>
+    <item
+        jar="D:\biblioteca-diogomarcos\Documents\AndroidStudioProjects\MobNotes\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\biblioteca-diogomarcos\Documents\AndroidStudioProjects\MobNotes\app\build\intermediates\pre-dexed\debug\classes-30963f7d39442b3cd02a22bb83927e8a90a7ad3c.jar" />
+    </item>
+    <item
+        jar="D:\biblioteca-diogomarcos\Documents\AndroidStudioProjects\MobNotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\biblioteca-diogomarcos\Documents\AndroidStudioProjects\MobNotes\app\build\intermediates\pre-dexed\debug\classes-0b81c5a17364a05aaf95e05cf48fb22e48f4ace3.jar" />
+    </item>
+
+</items>
